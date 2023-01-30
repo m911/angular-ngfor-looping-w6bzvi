@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  colors: string[] = ['redpurple', 'blue', 'green', 'purple'];
+  colors: string[] = ['red2le', 'blue', 'green', 'purple'];
 }
